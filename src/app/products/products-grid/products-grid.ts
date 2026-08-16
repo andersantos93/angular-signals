@@ -17,6 +17,7 @@ export class ProductsGrid {
       description:
         'High-quality wireless headphones with noise cancellation and long battery life.',
       price: 100,
+      originalPrice: 249.99,
     },
     {
       id: 2,
@@ -30,6 +31,7 @@ export class ProductsGrid {
       name: 'Portable Bluetooth Speaker',
       description: 'Compact and powerful Bluetooth speaker perfect for outdoor adventures.',
       price: 200,
+      originalPrice: 99.99,
     },
   ]);
 }
